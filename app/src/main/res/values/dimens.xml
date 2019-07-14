@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_navdrawer_height">160dp</dimen>
+    <dimen name="material_navdrawer_padding">16dp</dimen>
+    <dimen name="material_itens_margintop">8dp</dimen>
+</resources>
